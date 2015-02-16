@@ -1,0 +1,28 @@
+{
+  "name": "nodeschool-makemehapi",
+  "version": "1.0.0",
+  "description": "Attempt at learning hapi",
+  "private": true,
+  "main": "1.js",
+  "dependencies": {
+    "hapi": "^8.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/phathocker/nodeschool-makemehapi.git"
+  },
+  "keywords": [
+    "npm",
+    "hapi"
+  ],
+  "author": "Ben Hocker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phathocker/nodeschool-makemehapi/issues"
+  },
+  "homepage": "https://github.com/phathocker/nodeschool-makemehapi"
+}
