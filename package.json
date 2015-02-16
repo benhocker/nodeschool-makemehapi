@@ -3,9 +3,10 @@
   "version": "1.0.0",
   "description": "Attempt at learning hapi",
   "private": true,
-  "main": "1.js",
+  "main": "2.js",
   "dependencies": {
-    "hapi": "^8.2.0"
+    "hapi": "^8.2.0",
+    "makemehapi": "^1.0.3"
   },
   "devDependencies": {},
   "scripts": {
