@@ -2,14 +2,6 @@ var Hapi = require("hapi");
 var Path = require('path');
 var server = new Hapi.Server();
 
-function one(request, reply) {
-  reply("Hello Hapi");
-}
-
-function two(request, reply) {
-	reply("Hello " + request.params.name);
-}
-
 server.connection({
 	host: "localhost",
 	port: Number(process.argv[2] || 8080)
