@@ -1,10 +1,6 @@
 var Hapi = require("hapi");
 var server = new Hapi.Server();
 
-function one(request, reply) {
-  reply("Hello Hapi");
-}
-
 function two(request, reply) {
 	reply("Hello " + request.params.name);
 }
