@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Attempt at learning hapi",
   "private": true,
-  "main": "2.js",
+  "main": "5.js",
   "dependencies": {
     "handlebars": "^3.0.0",
     "hapi": "^8.2.0",
@@ -19,7 +19,9 @@
   },
   "keywords": [
     "npm",
-    "hapi"
+    "hapi",
+    "handlebars",
+    "makemehapi"
   ],
   "author": "Ben Hocker",
   "license": "ISC",
