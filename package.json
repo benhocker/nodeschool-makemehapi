@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Attempt at learning hapi",
   "private": true,
-  "main": "5.js",
+  "main": "6.js",
   "dependencies": {
     "handlebars": "^3.0.0",
     "hapi": "^8.2.0",
